@@ -14,26 +14,26 @@ In the overview below you will find my most recent work experiences:
 
 **Tech Advisor** \
 [**Digital House Brasil**](https://www.digitalhouse.com/br) • Full-time \
-Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `ReactJS`, `Team Leadership`, `Agile Management`.\
+Languages & Technologies: `JavaScript`, `ReactJS`, `Team Leadership`, `Agile Management`.\
 Featured Projects: [Certified Tech Developer](https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://blog.bussolasocial.com.br/wp-content/uploads/2019/07/logo-bussola.png"/>](https://www.bussolasocial.com.br/)
 
 **Full-stack Developer** \
-[**Franka Construtora**](https://frankaempreendimentos.com.br/) • Contract \
-Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `MySQL`, `Laravel Framweork`\
-Featured Projects: [Sistema de fluxo de vendas imobiliárias
-](https://frankaempreendimentos.com.br/)
+[**Bússola Social**](https://www.bussolasocial.com.br/) • Contract \
+Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `MySQL`, `Zend Framweork`\
+Featured Projects: [SAFI - Sistema de Acompanhamento da Família e do Indivíduo
+](http://wiidoo.com.br/solucoes/software-assistencia-social)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4pcLmQqTBv-ZT1pbf4-9jf-RxPm9ZdmEdTz_AbnVgMTVJDdtN"/>](https://www.bussolasocial.com.br/)
 
 **Full-stack Developer** \
-[**Bússola Social**](https://www.bussolasocial.com.br/) • Contract \
-Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `MySQL`, `Zend Framweork`\
-Featured Projects: [SAFI - Sistema de Acompanhamento da Família e do Indivíduo
-](http://wiidoo.com.br/solucoes/software-assistencia-social)
+[**Franka Construtora**](https://frankaempreendimentos.com.br/) • Contract \
+Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `MySQL`, `Laravel Framweork`\
+Featured Projects: [Sistema de fluxo de vendas imobiliárias
+](https://frankaempreendimentos.com.br/)
 <br/>
 <br/>
 <br/>
