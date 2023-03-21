@@ -22,7 +22,7 @@ Featured Projects: [Certified Tech Developer](https://www.digitalhouse.com/br/pr
 
 **Full-stack Developer** \
 [**Bússola Social**](https://www.bussolasocial.com.br/) • Contract \
-Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `MySQL`, `Zend Framweork`\
+Job Description: Acting as technical leadership, guiding and directing the creation of technical content on software development.
 Featured Projects: [SAFI - Sistema de Acompanhamento da Família e do Indivíduo
 ](http://wiidoo.com.br/solucoes/software-assistencia-social)
 <br/>
