@@ -14,7 +14,7 @@ In the overview below you will find my most recent work experiences:
 
 **Tech Advisor** \
 [**Digital House Brasil**](https://www.digitalhouse.com/br) • Full-time \
-Languages & Technologies: `JavaScript`, `ReactJS`, `Team Leadership`, `Agile Management`.\
+Job Description: Acting as technical leadership, guiding and directing the creation of technical content on software development.
 Featured Projects: [Certified Tech Developer](https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer)
 <br/>
 
@@ -22,7 +22,7 @@ Featured Projects: [Certified Tech Developer](https://www.digitalhouse.com/br/pr
 
 **Full-stack Developer** \
 [**Bússola Social**](https://www.bussolasocial.com.br/) • Contract \
-Job Description: Acting as technical leadership, guiding and directing the creation of technical content on software development.
+Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `MySQL`, `Zend Framweork`\
 Featured Projects: [SAFI - Sistema de Acompanhamento da Família e do Indivíduo
 ](http://wiidoo.com.br/solucoes/software-assistencia-social)
 <br/>
