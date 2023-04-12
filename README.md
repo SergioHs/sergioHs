@@ -13,9 +13,10 @@ In the overview below you will find my most recent work experiences:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://pbs.twimg.com/profile_images/1503382071187808261/WrUoYMVU_400x400.jpg"/>](https://www.digitalhouse.com/br)
 
 [comment]: # (**Tech Advisor** \)
-[comment]:  [**Digital House Brasil**](https://www.digitalhouse.com/br) • Full-time \
-[comment]: Job Description: Acting as technical leadership, guiding and directing the creation of technical content on software development.
-[comment]:  Featured Projects: [Certified Tech Developer](https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer)
+[comment]: # ([**Digital House Brasil**](https://www.digitalhouse.com/br) 
+[comment]: # ( Full-time \)
+[comment]: # (Job Description: Acting as technical leadership, guiding and directing the creation of technical content on software development.)
+[comment]: # (Featured Projects: [Certified Tech Developer](https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://blog.bussolasocial.com.br/wp-content/uploads/2019/07/logo-bussola.png"/>](https://www.bussolasocial.com.br/)
