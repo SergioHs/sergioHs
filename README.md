@@ -2,36 +2,12 @@
 
 I'm Sergio. I have a master's degree in applied computing from the State University of Santa Catarina and I am passionate about technology and especially programming and software. I am currently a technical supervisor at Digital House Brasil. I did my first "Hello, world" 15 years ago and since then I have acquired a vast experience in web development mainly with PHP, MySQL, JavaScript and several other languages and libraries.
 
-- 🔭 I’m currently working on Digital House Brasil
-- 🌱 I’m currently(ever) learning software development 
+- 🔭 I’m currently working as Software Developer
 - 👯 I’m looking to collaborate on open source for social issues 
 - ⚡ Fun fact: I'm a salad decorator
 <br/>
 
 In the overview below you will find some of my work experiences:
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://blog.bussolasocial.com.br/wp-content/uploads/2019/07/logo-bussola.png"/>](https://www.bussolasocial.com.br/)
-
-**Full-stack Developer** \
-[**Bússola Social**](https://www.bussolasocial.com.br/) • Contract \
-Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `MySQL`, `Zend Framweork`\
-Featured Projects: [SAFI - Sistema de Acompanhamento da Família e do Indivíduo
-](http://wiidoo.com.br/solucoes/software-assistencia-social)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4pcLmQqTBv-ZT1pbf4-9jf-RxPm9ZdmEdTz_AbnVgMTVJDdtN"/>](https://www.bussolasocial.com.br/)
-
-**Full-stack Developer** \
-[**Franka Construtora**](https://frankaempreendimentos.com.br/) • Contract \
-Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `MySQL`, `Laravel Framweork`\
-Featured Projects: [Sistema de fluxo de vendas imobiliárias
-](https://frankaempreendimentos.com.br/)
-<br/>
-<br/>
-<br/>
-[![sergioHs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioHs&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <a href="mailto:sergiohsilva3@gmail.com" alt="Gmail">
